@@ -6,16 +6,17 @@
 
 ## 📑 Sobre:
 
-O projeto **CSS Animations 3D Transform Cube Menu** é uma aplicação de animação de botões com hover para a estilização de um futuro site. Ademais, o projeto foi feito baseado em um guia elaborado em canal do Youtube chamado **Franks Laboratory**.
+O projeto **NFT Preview Card Component** é um projeto .... Ademais, o projeto(já citei essa palavra) foi feito para a plataforma do **Frontend Mentor**, tive ajuda de um guia elaborado em canal do Youtube chamado **CodeAgam**.
 
 
-## 📑 Tenologias utilizadas:
+## 🤖 Tenologias utilizadas:
 
 - HTML;
 - CSS.
 
 ## 📚 Guia completo:
 
-- Baseado nesse vídeo no [Youtube](https://www.youtube.com/watch?v=J_W6njFDw1U)
+- Desafio no [Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0);
+- [Vídeo] que me auxiliou no projeto(https://www.youtube.com/watch?v=88aBN3N45WA);
 
 <p align="center">Desenvolvido por <a href ="https://www.linkedin.com/in/pecraveiro/">Pedro Craveiro</a> 🌐:octocat:</p>
