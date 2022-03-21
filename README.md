@@ -11,6 +11,8 @@ O projeto **NFT Preview Card Component** é um projeto .... Ademais, o projeto(j
 <div align="center">
 
   ![githubnftpreview1](https://user-images.githubusercontent.com/79882049/159378328-25e64a23-95b7-4e78-9c2d-3940b22d1fd5.gif)
+  
+  ![githubnftpreview](https://user-images.githubusercontent.com/79882049/159381143-66e2a131-c254-4d0e-85e5-91dc913bfe80.PNG)
 
 </div>
 
