@@ -1,7 +1,5 @@
 ## Frontend Mentor - NFT preview card component
 
-## Welcome! 👋
-
 <!-- Colocar uma logo no projeto -->
 <!-- HTML -->
 <h1 align="center">
