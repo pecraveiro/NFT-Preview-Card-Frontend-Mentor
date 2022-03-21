@@ -1,11 +1,3 @@
-## Frontend Mentor - NFT preview card component
-
-<!-- Colocar uma logo no projeto -->
-<!-- HTML -->
-<h1 align="center">
-    <!-- URL da imagen -->
-</h1>
-
 ## 🔍 Índice
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
@@ -27,5 +19,3 @@ O projeto **CSS Animations 3D Transform Cube Menu** é uma aplicação de anima�
 - Baseado nesse vídeo no [Youtube](https://www.youtube.com/watch?v=J_W6njFDw1U)
 
 <p align="center">Desenvolvido por <a href ="https://www.linkedin.com/in/pecraveiro/">Pedro Craveiro</a> 🌐:octocat:</p>
-
-
