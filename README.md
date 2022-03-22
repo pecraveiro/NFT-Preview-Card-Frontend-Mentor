@@ -1,3 +1,9 @@
+<div align="center">
+
+  ![githubnftpreview1](https://user-images.githubusercontent.com/79882049/159378328-25e64a23-95b7-4e78-9c2d-3940b22d1fd5.gif)
+  
+</div>
+
 ## 🔍 Índice
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
