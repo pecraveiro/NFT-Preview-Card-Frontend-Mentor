@@ -12,7 +12,7 @@
 
 ## 📑 Sobre:
 
-<p align="justify">Baseado em um desafio de programação na plataforma do site <b>Frontend Mentor</b>, que visa o treinamento com base em exercícios em linguagens de programação e marcação. Desenvolvi o projeto <b>“NFT Preview Card Component”</b> para iniciantes, com ajuda de algumas recomendações baseadas nesse guia publicado no Youtube, com o intuito de treinar minhas habilidades nas linguagens de marcação HTML e CSS. Ademais, além do exercício proposto, fiz algumas modificações no código com base em outros modelos de NFTs, preços e criadores.</p>
+<p align="justify">Baseado em um desafio de programação na plataforma do site <b>Frontend Mentor,</b> que visa o treinamento com base em exercícios em linguagens de programação e marcação. Desenvolvi o projeto <b>“NFT Preview Card Component”</b> para iniciantes, com ajuda de algumas recomendações baseadas nesse guia publicado no Youtube, com o intuito de treinar minhas habilidades nas linguagens de marcação HTML e CSS. Ademais, além do exercício proposto, fiz algumas modificações no código com base em outros modelos de NFTs, preços e criadores.</p>
 
 ## 🤖 Tenologias Utilizadas:
 
@@ -22,7 +22,7 @@
 ## 📚 Guia Completo:
 
 - Desafio no [Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0);
-- [Vídeo](https://www.youtube.com/watch?v=88aBN3N45WA) que me auxiliou no projeto;
+- [Vídeo](https://www.youtube.com/watch?v=88aBN3N45WA) que me auxiliou no projeto.
 
 ## ⚙️ Projeto Desenvolvido:
 
