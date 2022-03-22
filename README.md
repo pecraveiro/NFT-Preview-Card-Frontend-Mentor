@@ -12,7 +12,7 @@
 
 ## 📑 Sobre:
 
-O projeto **NFT Preview Card Component** é um projeto .... Ademais, o projeto(já citei essa palavra) foi feito para a plataforma do **Frontend Mentor**, tive ajuda de um guia elaborado em canal do Youtube chamado **CodeAgam**.
+Baseado em um desafio de programação na plataforma do site **Frontend Mentor**, que visa o treinamento com base em exercícios em linguagens de programação e marcação. Desenvolvi o projeto **“NFT Preview Card Component”** para iniciantes, com ajuda de algumas recomendações baseadas nesse guia publicado no Youtube, com o intuito de treinar minhas habilidades nas linguagens de marcação HTML e CSS. Ademais, além do exercício proposto, fiz algumas modificações no código com base em outros modelos de NFTs, preços e criadores.
 
 <div align="center">
   
