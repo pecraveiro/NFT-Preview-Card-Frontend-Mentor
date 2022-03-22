@@ -6,28 +6,30 @@
 
 ## 🔍 Índice
 - [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Guia completo](#-guia-completo)
-
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Guia Completo](#-guia-completo)
+- [Projeto Desenvolvido](#-projeto-desenvolvido)
 
 ## 📑 Sobre:
 
 Baseado em um desafio de programação na plataforma do site **Frontend Mentor**, que visa o treinamento com base em exercícios em linguagens de programação e marcação. Desenvolvi o projeto **“NFT Preview Card Component”** para iniciantes, com ajuda de algumas recomendações baseadas nesse guia publicado no Youtube, com o intuito de treinar minhas habilidades nas linguagens de marcação HTML e CSS. Ademais, além do exercício proposto, fiz algumas modificações no código com base em outros modelos de NFTs, preços e criadores.
+
+## 🤖 Tenologias Utilizadas:
+
+- HTML;
+- CSS.
+
+## 📚 Guia Completo:
+
+- Desafio no [Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0);
+- [Vídeo](https://www.youtube.com/watch?v=88aBN3N45WA) que me auxiliou no projeto;
+
+## ⚙️ Projeto Desenvolvido:
 
 <div align="center">
 
   ![gifprogit](https://user-images.githubusercontent.com/79882049/159418044-034a603e-e358-4765-b5bc-425dccd13af7.gif)
 
 </div>
-
-## 🤖 Tenologias utilizadas:
-
-- HTML;
-- CSS.
-
-## 📚 Guia completo:
-
-- Desafio no [Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0);
-- [Vídeo](https://www.youtube.com/watch?v=88aBN3N45WA) que me auxiliou no projeto;
 
 <p align="center">Desenvolvido por <a href ="https://www.linkedin.com/in/pecraveiro/">Pedro Craveiro</a> 🌐:octocat:</p>
