@@ -6,9 +6,9 @@
 
 ## 🔍 Índice
 - [Sobre](#-sobre)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Tecnologias Utilizadas](#-tecnologiasutilizadas)
 - [Guia Completo](#-guia-completo)
-- [Projeto Desenvolvido](#-projeto-desenvolvido)
+- [Projeto Desenvolvido](#-projetodesenvolvido)
 
 ## 📑 Sobre:
 
